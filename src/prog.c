@@ -8,6 +8,7 @@ void cuenta1aN(int n){
 
 void suma(int a, int b) {
 	printf("%d\n", a+b);
+	return;
 }
 
 int main() {
