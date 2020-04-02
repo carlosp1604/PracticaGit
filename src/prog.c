@@ -6,6 +6,10 @@ void cuenta1aN(int n){
 		printf("%d\n", i+1);
 }
 
+void suma(int a, int b) {
+	printf("%d\n", a+b);
+}
+
 int main() {
 	printf("Hola Mundo!");
 	int n = 10;
