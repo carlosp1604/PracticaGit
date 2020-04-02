@@ -7,7 +7,8 @@ void cuenta1aN(int n){
 }
 
 void suma(int a, int b) {
-	printf("%d\n", a+b);
+	int c = a + b;
+	printf("%d\n", c);
 }
 
 int main() {
